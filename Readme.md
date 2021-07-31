@@ -17,3 +17,7 @@ Debouncing is a way to delay the execution of a function to a later period until
 
 Link :
 https://dev.to/iyashsoni/javascript-debounce-vs-throttle-392i
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/kirankumarrr/js-advance-topics-dive-in/main/src/images/Thorttling-image.PNG)
