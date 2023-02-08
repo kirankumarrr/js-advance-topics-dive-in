@@ -21,3 +21,9 @@ https://dev.to/iyashsoni/javascript-debounce-vs-throttle-392i
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/kirankumarrr/js-advance-topics-dive-in/main/src/images/Thorttling-image.PNG)
+
+
+Advanced JavaScript Functions to Improve Code Quality
+-> Debounce, Throttle, Once so on...
+
+https://www.paulsblog.dev/advanced-javascript-functions-to-improve-code-quality/
