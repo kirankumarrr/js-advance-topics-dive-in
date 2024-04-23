@@ -8,7 +8,7 @@ const throttle = (fn, delay) => {
   return function () {
     if (!isThrottleBlocked) {
       // console.log("arguments", arguments);
-      fn.aplly(this, arguments);
+      fn.apply(this, arguments);
       // fn();
       isThrottleBlocked = true;
 
